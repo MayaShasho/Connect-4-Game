@@ -1,5 +1,8 @@
 # Connect Four Game
 
+Play the game live!  
+[Try the Connect Four Game here](https://MayaShasho.github.io/Connect-4-Game)
+
 This project is a Connect Four game built using React. It allows two players to take turns dropping discs into columns and aim to connect four of their discs in a row (horizontally, vertically, or diagonally).
 
 # Getting Started with Create React App
