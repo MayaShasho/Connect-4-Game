@@ -4,17 +4,21 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-confetti": "^6.2.2",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^4.2.4",
+    "homepage": "https://mayashasho.github.io/Connect-4-Game/"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
