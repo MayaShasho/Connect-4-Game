@@ -10,7 +10,7 @@ const Slot = ({ key, className, onClick, onMouseEnter, cell }) => {
             onClick={onClick}
             onMouseEnter={onMouseEnter}
         >
-            {cell && <img className="Token" alt="disk" src={cell === 'X' ? redToken : blackToken} />}
+            {cell && <img className="Token" alt='' src={cell === 'X' ? redToken : blackToken} />}
         </div>
     );
 };

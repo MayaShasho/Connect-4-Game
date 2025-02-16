@@ -40,6 +40,7 @@ span {
   text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.8);
   font-size: 4.5rem;
   margin-left: 10px;
+
 }
 
 .AppContent {
@@ -75,5 +76,4 @@ span {
   span {
     font-size: 3.2rem;
   }
-
 }
