@@ -51,7 +51,7 @@ span {
   border-radius: 20px;
   width: 900px;
   margin: auto;
-  height: 900px;
+  height: 100%;
   gap: 10px;
 }
 
