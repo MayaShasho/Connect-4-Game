@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Connect-4-Game/static/css/main.78209c1b.css",
+    "main.css": "/Connect-4-Game/static/css/main.f01ae7c6.css",
     "main.js": "/Connect-4-Game/static/js/main.a63fcb11.js",
     "static/js/488.b57bb39b.chunk.js": "/Connect-4-Game/static/js/488.b57bb39b.chunk.js",
     "static/media/wood.jpg": "/Connect-4-Game/static/media/wood.a96399289d31a757a94e.jpg",
     "index.html": "/Connect-4-Game/index.html",
     "static/media/player1disc.svg": "/Connect-4-Game/static/media/player1disc.c40903867afac7382f83a4acab7eabc7.svg",
     "static/media/player2disc.svg": "/Connect-4-Game/static/media/player2disc.457d13ca86843615ec63f7c36f081226.svg",
-    "main.78209c1b.css.map": "/Connect-4-Game/static/css/main.78209c1b.css.map",
+    "main.f01ae7c6.css.map": "/Connect-4-Game/static/css/main.f01ae7c6.css.map",
     "main.a63fcb11.js.map": "/Connect-4-Game/static/js/main.a63fcb11.js.map",
     "488.b57bb39b.chunk.js.map": "/Connect-4-Game/static/js/488.b57bb39b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78209c1b.css",
+    "static/css/main.f01ae7c6.css",
     "static/js/main.a63fcb11.js"
   ]
 }
